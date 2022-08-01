@@ -51,5 +51,3 @@ dependencies {
     def arcore_version = '1.32.0'
     api "com.google.ar:core:$arcore_version"
 }
-
-apply plugin: "com.vanniktech.maven.publish"
